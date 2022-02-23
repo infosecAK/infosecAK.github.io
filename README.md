@@ -1,3 +1,6 @@
+USED THE TEMPLATE BELOW FOR THIS WEBSITE. CREDIT TO THE OWNERS AND THE MAINTAINERS. :)
+
+
 ![Awesome Portfolio Website](./readme_assets/banner_apw.png)
 
 <div align="center">
