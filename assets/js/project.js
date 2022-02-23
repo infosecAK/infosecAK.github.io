@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Defenseless Vulnerable Web Application: Defenseless",
+    title: "Vulnerable Web Application: Defenseless",
     cardImage: "assets/images/project-page/defense.png",
     description: "A vulnerable web application built using PHP to practice a few attacks.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
