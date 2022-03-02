@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/download.png",
     place: "NotSoSecure | Part of Claranet Cyber Security",
     time: "(February, 2022 - present)",
-    desp: "<li>Performing Security Assessments on Web Apps, Mobile Apps & APIs</li> <li>Using tools like Burp Suite, MobSF, Fortify, Netsparker etc</li>",
+    desp: "<li>Performing Security Assessments on Web Apps, Mobile Apps & APIs</li> <li>Using tools like Burp Suite, MobSF, WebInspect, Netsparker, Postman, Corellium etc</li>",
   },
   {
     title: "Senior Associate Information Security L2",
